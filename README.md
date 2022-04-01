@@ -50,7 +50,7 @@ plt.show()
 
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![output](https://github.com/Saibandhavi75/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/ml-ex2.PNG?raw=true)
 
 
 ## Result:
