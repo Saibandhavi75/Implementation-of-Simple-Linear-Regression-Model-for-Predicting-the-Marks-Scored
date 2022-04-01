@@ -23,7 +23,9 @@ To write a program to implement the simple linear regression model for predictin
 
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: Aruru Sai Bandhavi
+
 RegisterNumber: 212221240006
 */
 ```
